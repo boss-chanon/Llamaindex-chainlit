@@ -6,7 +6,7 @@ from llama_index.core import Settings
 from llama_index.llms.gemini import Gemini
 from llama_index.embeddings.gemini import GeminiEmbedding
 
-GOOGLE_API_KEY = "AIzaSyD4K9-x9lx8pef5zVr5wzHTcl47u7_pZlk"
+GOOGLE_API_KEY = ...
 
 
 # Chainlit session setting
