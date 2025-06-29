@@ -13,7 +13,7 @@ pip install -r ./requirement.txt
 ```
 3. Download example document
 ```bash
-medir ./data
+mkdir ./data
 curl https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_Chapter03.pdf --output ./data/IPCC_AR6_WGII_Chapter03.pdf
 ```
 
