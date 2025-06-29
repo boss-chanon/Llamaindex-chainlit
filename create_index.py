@@ -2,7 +2,7 @@ from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, Settings
 from llama_index.embeddings.gemini import GeminiEmbedding
 
 
-GOOGLE_API_KEY = "AIzaSyD4K9-x9lx8pef5zVr5wzHTcl47u7_pZlk"
+GOOGLE_API_KEY = "..."
 
 DATA_DIR = "./data"
 OUTPUT_DIR = "./index"
