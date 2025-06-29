@@ -1,0 +1,7 @@
+llama-index-embeddings-gemini
+llama-index-llms-gemini
+llama-index
+
+google-generativeai>=0.3.0
+
+chainlit
